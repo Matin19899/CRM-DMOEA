@@ -1,5 +1,5 @@
 In the name of GOD
- Project Title: A Novel Combinational Response Mechanism for Dynamic Multi
+ Project Title: A Novel Combinational Response Mechanism for Dynamic Multi-Objective Optimization 
 
  Developer: Zahra Aliniya and Seyed Hossein Khasteh 
  
